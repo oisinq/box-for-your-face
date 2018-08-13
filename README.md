@@ -1,6 +1,12 @@
 # Box For Your Face
 
-This React app lets you send an image link, and it returns the image with a box around a face it recognises.
+![alt text](screenshot.png)
+
+
+This React app lets you send an image link, and it returns the image with a box around a face it recognises. It uses the Clarifai API to recognise faces.
+
+
+![alt text](screenshot2.png)
 
 # Installation
 
@@ -19,4 +25,5 @@ To run, type:
 
   `$ npm start`
   
-Have fun!
+  
+### Have fun!
