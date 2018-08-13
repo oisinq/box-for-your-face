@@ -8,6 +8,8 @@ This React app lets you send an image link, and it returns the image with a box 
 
 ![alt text](screenshot2.png)
 
+The back-end source code is available [here](https://github.com/oisinq/box-for-your-face-api).
+
 # Installation
 
 To run this, you need Node.js (and npm, but this is now included). You can download it [here](https://nodejs.org/en/).
