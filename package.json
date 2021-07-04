@@ -7,7 +7,7 @@
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-particles-js": "2.7.1",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.3",
     "react-tilt": "0.1.4",
     "tachyons": "4.12.0"
   },
